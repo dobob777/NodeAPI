@@ -9,7 +9,7 @@ app.use(json());
 const cors = require('cors');
 app.use(cors());
 
-// Data base Add
+// Data base Add--
 require('./DB/connection');
 
 // API add
